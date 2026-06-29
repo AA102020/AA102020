@@ -63,7 +63,8 @@ A research project focused on policy dilemmas, accountability problems, and inst
 ## Scholarly Profiles
 
 - ORCID: https://orcid.org/0009-0004-5771-5848
-- Google Scholar: Add your Google Scholar profile URL
+- Google Scholar: https://scholar.google.com/citations?user=kqfBtnMAAAAJ&hl=en
+- LinkedIn: https://www.linkedin.com/in/abadaa20005
 - GitHub: https://github.com/AA102020
 - Professional Website: https://AA102020.github.io
 
