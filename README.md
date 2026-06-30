@@ -1,6 +1,6 @@
 # Abdul Ahmed
 
-## Responsible AI | Institutional Risk | Technology Policy
+## Computational Science | ML and Responsible AI | Institutional Risk | Technology Policy
 
 I work across responsible AI, institutional risk, banking governance, defense technology, consumer finance, computational science, technology policy, and the digital economy.
 
