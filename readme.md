@@ -8,22 +8,22 @@ My work focuses on making AI-enabled and data-driven systems reliable, explainab
 
 ## Professional Experience
 
-- **Director of Enterprise AI Solutions**  
+- **Senior Director of AI Solutions**  
   Informatics AI | Washington, DC
 
-- **Senior Technical Manager, Consumer Credit**  
-  Credit One Bank | Remote
+- **Technical Manager, Consumer Credit**  
+  Credit One Bank | Nevada and Washington, DC
 
-- **Manager of Financial Data Solutions**  
-  Talent Burst | Washington, DC
+- **Senior Manager, Global Data**  
+  Visa | Washington, DC
 
-- **Manager of Financial Instruments Data Engineering**  
-  World Bank | Washington, DC
+- **Manager of Financial Instruments, Analytics and Reporting**  
+  World Bank Group
 
-- **Business/Data Analyst**  
-  Wells Fargo | Tempe, AZ and Washington, DC
+- **Manager, Data Transformation & Governance**  
+  Wells Fargo | Washington, DC
 
-- **Data Analyst in Advanced Analytics**  
+- **Data Analyst, Advanced Analytics**  
   American Express | Phoenix, AZ
 
 ## Education
